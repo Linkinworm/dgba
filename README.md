@@ -1,3 +1,5 @@
+Files are debug, please make sure you're ok overwriting your old debug files if you have installed already!!!!
+
 dolphin android with mgba integration
 
 Usage: 
